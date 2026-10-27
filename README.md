@@ -1,10 +1,6 @@
 <h1 align="center">Hi! I'm Kyla.</h1>
 <h3 align="center">a software engineer who strive to build & create while learning along the way</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kay-16&label=Profile%20views&color=0e75b6&style=flat" alt="kay-16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kay-16" alt="kay-16" /></a> </p>
-
 - 🔭 I’m currently working on [Real-Time Visual Clutter & Risk Assessment of Electrical Posts Using Deep Learning V2](https://github.com/kay-16/electrical-post-clutter-segmentation-V2.git)
 
 - 🌱 I’m currently learning **Laravel**
