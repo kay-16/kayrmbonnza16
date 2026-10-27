@@ -1,15 +1,21 @@
-<h1 align="center">Hi! I'm Kyla.</h1>
+<h1 align="center">Hi! I'm Kyla!</h1>
 <h3 align="center">a software engineer who strive to build & create while learning along the way</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kay-16&label=Profile%20views&color=0e75b6&style=flat" alt="kay-16" /> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kay-16" alt="kay-16" /></a> </p> -->
 
 - 🔭 I’m currently working on [Real-Time Visual Clutter & Risk Assessment of Electrical Posts Using Deep Learning V2](https://github.com/kay-16/electrical-post-clutter-segmentation-V2.git)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel, Docker, and AWS**
 
 - 👨‍💻 All of my projects are available at [https://kylareambonanza.vercel.app/](https://kylareambonanza.vercel.app/)
 
 - 📫 How to reach me **kayreambonanza@gmail.com**
 
 - 📄 Know about my experiences [https://kylareambonanza.vercel.app/Reambonanza_Kyla_CV.pdf](https://kylareambonanza.vercel.app/Reambonanza_Kyla_CV.pdf)
+
+- ⚡ Fun fact **aside from tech, i also like art and fashion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
